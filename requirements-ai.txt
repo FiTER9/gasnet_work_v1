@@ -1,0 +1,5 @@
+# 可选：离线训练随机森林/SVM/LSTM 时安装；核心平台运行不依赖本文件。
+numpy>=2.3
+scikit-learn>=1.7
+torch>=2.8
+
